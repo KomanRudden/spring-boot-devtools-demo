@@ -54,7 +54,9 @@ every time you want to build, simply set
 
     Build, execution, Deployment > Compiler
     
-LiveReload triggers a browser refresh when a the following resources change. An extension is required in your browser.
+#### LiveReload 
+
+Triggers a browser refresh when a the following resources change. An extension is required in your browser.
 
     /META-INF/maven
     /META-INF/resources

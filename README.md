@@ -5,7 +5,15 @@ Simply run
     
     mvn spring-boot:run
     
- then edit one of the classes and save. 
+browse to 
+
+    http://localhost:8080/hello/<your-name>    
+    
+ then edit the retuned String in
+ 
+    ClassToBechanged.java
+    
+and save. Watch the logs and refresh your browser.     
 
 ### Speed up your Spring Boot development
 By simply adding the following Maven dependency to your project

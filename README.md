@@ -1,5 +1,12 @@
 # Spring Boot DevTools Demo
 
+### Try it out
+Simply run 
+    
+    mvn spring-boot:run
+    
+ then edit one of the classes and save. 
+
 ### Speed up your Spring Boot development
 By simply adding the following Maven dependency to your project
 
